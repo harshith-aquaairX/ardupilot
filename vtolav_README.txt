@@ -1,0 +1,1 @@
+This branch (vtol_av) is used to generate code for the ArduPlane 4.5.5 firmware.
